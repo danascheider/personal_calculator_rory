@@ -21,6 +21,7 @@ GEM
       regexp-examples (~> 1.2)
     minitest (4.7.5)
     multi_json (1.12.1)
+    puma (3.4.0)
     rack (1.6.4)
     rack-contrib (1.4.0)
       git-version-bump (~> 0.15)
@@ -71,6 +72,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug (~> 9.0)
+  puma (~> 3.4)
   rack-test (~> 0.6)
   rake (~> 11.2)
   rambo_ruby (~> 0.6)
