@@ -46,3 +46,9 @@ request_id=personal_calculator-bd9395c7-ff17-4ecc-857a-2d23bd2d58e1 127.0.0.1 - 
 request_id=personal_calculator-1e5e5f89-e3dc-4e39-9a5b-441080a63412 Started POST "/age" for 127.0.0.1 at 2016-07-13 15:15:07 -0700
 request_id=personal_calculator-1e5e5f89-e3dc-4e39-9a5b-441080a63412 Parameters: {"data"=>{"first_name"=>"p", "last_name"=>"h", "birthdate"=>"2097-12-12T20:30:29+00:00"}}
 request_id=personal_calculator-1e5e5f89-e3dc-4e39-9a5b-441080a63412 127.0.0.1 - - [13/Jul/2016:15:15:07 -0700] "POST /age " 200 - 0.0010
+request_id=personal_calculator-567449f8-1401-40d5-8ee7-31cab539a7a8 Started POST "/age" for 127.0.0.1 at 2016-07-13 15:50:29 -0700
+request_id=personal_calculator-567449f8-1401-40d5-8ee7-31cab539a7a8 Parameters: {"data"=>{"first_name"=>"s", "last_name"=>"\u0004", "birthdate"=>"2061-03-23T10:20:48+00:00"}}
+request_id=personal_calculator-567449f8-1401-40d5-8ee7-31cab539a7a8 127.0.0.1 - - [13/Jul/2016:15:50:29 -0700] "POST /age " 200 - 0.0060
+request_id=personal_calculator-cec0a786-eed0-458a-90e0-b3a5d51eb915 Started POST "/age" for 127.0.0.1 at 2016-07-13 15:50:29 -0700
+request_id=personal_calculator-cec0a786-eed0-458a-90e0-b3a5d51eb915 Parameters: {"data"=>{"first_name"=>"s", "last_name"=>"\u0004", "birthdate"=>"2061-03-23T10:20:48+00:00"}}
+request_id=personal_calculator-cec0a786-eed0-458a-90e0-b3a5d51eb915 127.0.0.1 - - [13/Jul/2016:15:50:29 -0700] "POST /age " 200 - 0.0005
